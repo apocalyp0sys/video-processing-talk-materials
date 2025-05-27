@@ -6,6 +6,9 @@
 
 ## Демки
 
+### [Демо с наложением логотипа на видео](https://apocalyp0sys.github.io/video-processing-talk-materials/)
+Код можно посмотреть в папке [logo](./logo)
+
 ### [Volcomix](https://github.com/Volcomix/virtual-background)
 Открытое решение задачи виртуального фона. В демо можно выбирать разные модели сегментации и способы композиции кадра по маске. 
 
