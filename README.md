@@ -49,6 +49,11 @@
 - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer) - разделяемая между потоками область памяти
 
 
+### Статьи
+
+- [Описание InsertableStreams на chrome4developers](https://developer.chrome.com/docs/capabilities/web-apis/mediastreamtrack-insertable-media-processing)
+- [Про обработку кадров видео на WebRTCHacks](https://webrtchacks.com/video-frame-processing-on-the-web-webassembly-webgpu-webgl-webcodecs-webnn-and-webtransport/)
+
 ## Демки
 
 ### [Демо с наложением логотипа на видео](https://apocalyp0sys.github.io/video-processing-talk-materials/)
